@@ -12,7 +12,7 @@ public class Cat {
 		Cat obj= new Cat();
 		obj.meow();
 		obj.sleep();
-		system.out.println("Nikitha");
+		System.out.println("Nikitha");
 	}
 
 }
