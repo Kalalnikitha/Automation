@@ -6,7 +6,9 @@ public class checking {
    System.out.println("Radhika");
    System.out.println("ramesh");
     System.out.println("Ramya");
-    System.out.println("Rajesh");		
+    System.out.println("Rajesh");	
+    System.out.println("Ramesh");	
+
 	}
 
 }
